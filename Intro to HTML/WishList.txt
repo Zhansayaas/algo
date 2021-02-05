@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Animals:</h1>
+        <ol>
+            <li>Dog</li>
+            <li>Fish</li>
+            <li>Cat</li>
+            <li>Fox</li>
+            <li>Monkey</li>
+        </ol>
+        
+        
+    </body>
+</html>
