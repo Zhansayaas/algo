@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <title> CSS Basics</title>
+        <style>
+            h1 {
+                color: rgb(136, 0, 255);
+            }
+            body{
+                background-color: rgb(245, 228, 245);
+            }
+            p{
+                color:black;
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1><strong>The coolest creature</strong> </h1>
+        
+        <p>The <em></em> duskpin is awesome because <strong></strong>.</p>
+        <img src="https://www.kasandbox.org/programming-images/avatars/duskpin-tree.png">
+    </body>
+    <p> <strong> He is very <em> beauty</em> </strong></p>
+</html>
