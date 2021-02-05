@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        <ul>
+            <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-selecting-by-class">Selecting by class</a></li>
+            <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics"> CSS Base </a></li>
+            <li><a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5693631463112704">Travel Web Page</a></li>
+        </ul>
+
+       <a href="https://commons.wikimedia.org/wiki/File:Heart_coraz%C3%B3n.svg?uselang=ru"> <img src="https://www.kasandbox.org/programming-images/cute/Heart.png"></a>
+        
+    </body>
+</html>

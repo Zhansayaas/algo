@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                   <td>Sausage, Kale and Potato Skillet Dinner </td>
+                   <td> sausages,potatos</td>
+                   <td> 20$</td>
+                </tr>
+                <tr>
+                    <td>
+                    Ramen
+                    </td>
+                    <td> noodles,meat,salt</td>
+                    <td> 5$</td>
+                    
+                </tr>
+                <tr>
+                    <td>
+                    Chimichurri Steak.
+                    </td>
+                    <td>
+                    steak,salt
+                    </td>
+                    <td>
+                    10$
+                    </td>
+                </tr>
+                
+            </tbody>
+        </table>
+
+    </body>
+</html>

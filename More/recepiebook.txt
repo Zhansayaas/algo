@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body{
+            color:rgb(14, 29, 66);
+            background-color:rgb(206, 240, 220);
+        }
+        table{
+            color:rgb(50, 91, 153);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#pan">Pancakes</a></li>
+            <li><a href="#waf">Gluten-Free Peanut Butter-Banana Waffles</a></li>
+            
+        </ol>
+        
+        <h2 id="pan">Pancakes</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Blueberry_pancakes_%283%29.jpg/330px-Blueberry_pancakes_%283%29.jpg">
+        
+        <ul>
+            <li>Time: 25 mins</li>
+            <li>Serves:4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+            <tr> 
+                <th>flour</th>
+                <th> 1 cup</th>
+            </tr>
+            <tr> 
+                <th>sugar </th>
+                <th> 2 tablespoons</th>
+            </tr>
+            <tr> 
+                <th>salt </th>
+                <th> 1/2 teaspoons</th>
+            </tr>
+            <tr> 
+                <th>milk </th>
+                <th> 1 cup</th>
+            </tr>
+            <tr> 
+                <th>bakingpowder</th>
+                <th>2 teaspoons</th>
+            </tr>
+            <tr> 
+                <th>  unsalted butter, melted, or vegetable oil</th>
+                <th>2 tablespoons</th>
+            </tr>
+            <tr> 
+                <th>  egg</th>
+                <th>1 </th>
+            </tr>
+            
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Preheat oven to 200 degrees; have a baking sheet or heatproof platter ready to keep cooked pancakes warm in the oven. In a small bowl, whisk together flour, sugar, baking powder, and salt; set aside..<br>
+        <strong>Step 2:</strong> In a medium bowl, whisk together milk, butter (or oil), and egg. Add dry ingredients to milk mixture; whisk until just moistened (do not overmix; a few small lumps are fine).<br>
+        <strong>Step 3:</strong>
+Heat a large skillet (nonstick or cast-iron) or griddle over medium. Fold a sheet of paper towel in half, and moisten with oil; carefully rub skillet with oiled paper towel.<br>
+        <strong>Step 4:</strong>
+For each pancake, spoon 2 to 3 tablespoons of batter onto skillet, using the back of the spoon to spread batter into a round (you should be able to fit 2 to 3 in a large skillet).<br>
+
+        <strong>Step 5:</strong>
+Cook until surface of pancakes have some bubbles and a few have burst, 1 to 2 minutes. Flip carefully with a thin spatula, and cook until browned on the underside, 1 to 2 minutes more. Transfer to a baking sheet or platter; cover loosely with aluminum foil, and keep warm in oven. Continue with more oil and remaining batter. (You'll have 12 to 15 pancakes.) Serve warm, with desired toppings.
+        
+        
+</p>
+<h2 id="waf">Gluten-Free Peanut Butter-Banana Waffles</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Waffles_with_Strawberries.jpg/330px-Waffles_with_Strawberries.jpg">
+        <ul>
+            <li>Time: 45 mins</li>
+            <li>Serves:4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+            <tr> 
+                <th>mashed overripe bananas (from 4 to 5), plus sliced bananas for serving</th>
+                <th> 2 cups</th>
+            </tr>
+            <tr> 
+                <th>cornstarch</th>
+                <th> 1 tablespoons</th>
+            </tr>
+            <tr> 
+                <th>salt </th>
+                <th> 1/2 teaspoons</th>
+            </tr>
+            <tr> 
+                <th>smooth or creamy peanut butter, such as Smucker's Natural </th>
+                <th> 11/2 cups</th>
+            </tr>
+            <tr> 
+                <th>bakingpowder</th>
+                <th>11/2 teaspoons</th>
+            </tr>
+            <tr> 
+                <th>  unsalted butter</th>
+                <th>2 tablespoons</th>
+            </tr>
+            <tr> 
+                <th>  egg</th>
+                <th>6 </th>
+            </tr>
+            
+            </tbody>
+        </table>
+     
+
+<p>
+<strong>Step 1:</strong>
+Preheat waffle iron.<br>
+
+<strong>Step 2:</strong>
+In a bowl, whisk together mashed bananas, baking powder, salt, and cornstarch. Whisk in eggs until smooth; whisk in peanut butter.<br>
+<strong>Step 3:</strong>
+Pour 1 cup batter into iron; cook per manufacturer's instructions (4 to 5 minutes). Serve immediately, or transfer to a wire rack set over a rimmed baking sheet in a 200-degree oven to keep warm. Repeat with remaining batter. Serve with butter, raspberries, and sliced bananas; drizzle with maple syrup.</p>
+    <h2>Peanut-Banana Espresso Smoothie</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Strawberry_and_lemon_smoothie_%2814430283996%29.jpg/330px-Strawberry_and_lemon_smoothie_%2814430283996%29.jpg" >
+    <ul>
+            <li>Time: 15 mins</li>
+            <li>Serves:2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+            <tr> 
+                <th>low-fat milk</th>
+                <th> 1 cups</th>
+            </tr>
+            <tr> 
+                <th>instant espresso powder</th>
+                <th> 1 tablespoons</th>
+            </tr>
+            <tr> 
+                <th>natural creamy peanut butter </th>
+                <th> 1/4 cups</th>
+            </tr>
+            <tr> 
+                <th>bananar</th>
+                <th>1</th>
+            </tr>
+            <tr> 
+                <th>  ice</th>
+                <th>1 cup </th>
+            </tr>
+            
+            </tbody>
+        </table>
+    <p>Step 1:
+Blend milk, espresso powder, peanut butter, banana, and ice.</p>
+
+    <p><em>Source: <a href="https://www.marthastewart.com/338185/basic-pancakes">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
