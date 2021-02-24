@@ -1,0 +1,16 @@
+<p>
+product-item works!
+</p>
+<h2>Product Details</h2>
+
+<div *ngIf="product">
+  <h3>
+      <a [title]="product.name+ ' details'">
+      {{ product.name}}
+      </a>
+  </h3>
+  <p *ngIf="product.price"> Price:{{products.price}}</p>
+  <p *ngIf="product.description">
+    Description: {{ product.description }}
+  </p>
+</div>
