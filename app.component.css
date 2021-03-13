@@ -1,0 +1,10 @@
+body{
+  background-color: lightyellow;
+  width:100%;
+}
+li{
+  font-size: 20px;
+  background-color: lightpink;
+  width: 100px;
+  text-align: center;
+}
