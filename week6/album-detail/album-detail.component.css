@@ -1,0 +1,62 @@
+
+.adding-title {
+  display: flex;
+	border-style: none;
+	background-color: #333;
+	padding: 10px;
+  border-radius: 2px;
+}
+
+input {
+	width: 500px;
+	padding: 5px;
+	margin-right: 10px;
+	height: 20px;
+	border-style: none;
+  border-radius: 1px;
+}
+
+.album-detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.back-button {
+  font-size: 13px;
+  color: white;
+	padding: 10px;
+  margin-right: 20px;
+  border: none;
+	background-color:lightpink;
+  border-radius: 2px;
+}
+
+.save-button {
+	width: 100px;
+	height: 30px;
+	background-color: lightpink;
+	font-size: 15px;
+	color: white;
+  border-radius: 2px;
+  border-color: lavender;
+}
+
+.photos-link {
+  font-size: 13px;
+	color: white;
+	padding: 10px;
+	background-color: lightpink;
+  border-radius: 2px;
+}
+
+a:visited {
+	color: white;
+}
